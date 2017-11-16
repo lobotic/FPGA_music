@@ -27,8 +27,8 @@
             "clock": false
           },
           "position": {
-            "x": 440,
-            "y": 168
+            "x": 184,
+            "y": 56
           }
         },
         {
@@ -46,8 +46,8 @@
             "virtual": false
           },
           "position": {
-            "x": 776,
-            "y": 168
+            "x": 520,
+            "y": 56
           }
         },
         {
@@ -65,16 +65,16 @@
             "virtual": false
           },
           "position": {
-            "x": 776,
-            "y": 336
+            "x": 520,
+            "y": 136
           }
         },
         {
           "id": "b758e3d9-ddd7-42cc-ab72-ba265bbf701c",
           "type": "32200dc0915d45d6ec035bcec61c8472f0cc7b88",
           "position": {
-            "x": 600,
-            "y": 168
+            "x": 344,
+            "y": 56
           },
           "size": {
             "width": 96,
@@ -85,16 +85,48 @@
           "id": "2f114b38-8824-4b9e-8b68-c888666a26b7",
           "type": "basic.info",
           "data": {
-            "info": "OSCILADOR\n",
-            "readonly": false
+            "info": "<img src=\"https://raw.githubusercontent.com/lobotic/FPGA_music/master/Imagen/01.png\" </img>\nEjercicio del libro \nHandmade Electronic Music\nde Nicolas Collins.\n",
+            "readonly": true
           },
           "position": {
-            "x": 440,
-            "y": 240
+            "x": 168,
+            "y": 280
           },
           "size": {
             "width": 288,
             "height": 160
+          }
+        },
+        {
+          "id": "f3870c87-75ba-452e-ae20-5c1f47bbe98b",
+          "type": "basic.info",
+          "data": {
+            "info": "<img src=\"https://raw.githubusercontent.com/lobotic/FPGA_music/master/Imagen/01.jpg\" width=\"100%\" height=\"100%\"</img>",
+            "readonly": true
+          },
+          "position": {
+            "x": 656,
+            "y": 48
+          },
+          "size": {
+            "width": 416,
+            "height": 544
+          }
+        },
+        {
+          "id": "07c05355-883b-41d3-b965-42c0f1e7c4eb",
+          "type": "basic.info",
+          "data": {
+            "info": "<b>FPGA MUSCIC by lobotic\n01. OSCILADOR</b>",
+            "readonly": true
+          },
+          "position": {
+            "x": 184,
+            "y": -24
+          },
+          "size": {
+            "width": 192,
+            "height": 128
           }
         }
       ],
@@ -133,10 +165,10 @@
     },
     "state": {
       "pan": {
-        "x": -307.0757,
-        "y": -19.9689
+        "x": 186.5,
+        "y": 127
       },
-      "zoom": 1.5871
+      "zoom": 1
     }
   },
   "dependencies": {
